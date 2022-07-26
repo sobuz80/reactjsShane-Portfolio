@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+![Screenshot from 2020-08-06 23-23-06](https://github.com/sobuz80/reactjsShane-Portfolio/blob/main/Screenshot_1.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
